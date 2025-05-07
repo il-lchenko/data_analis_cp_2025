@@ -4,8 +4,8 @@
 data/processed/
 data/raw/
 
-# Результаты
-results/
+
+
 
 # Python
 __pycache__/
